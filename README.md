@@ -1,0 +1,2 @@
+# projet-distribue-mongodb
+AMDOU BA ;  CHIEKH MOUSSA KANDE ; MOMHAMED NASSER AWAL  (M1_SRT)
